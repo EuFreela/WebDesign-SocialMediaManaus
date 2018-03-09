@@ -24,7 +24,7 @@ v1.0.1
     <li>8. baixa carga de memorização: fácil assimilação e memorização como o uso de ícones</li>
 </o>
 <br>
-<a href="https://www.behance.net/gallery/62992269/Social-Media-Manaus">Exibição em alta resolução no Adobe Behance - Clique nas lupas</p>
+<a href="https://www.behance.net/gallery/62992269/Social-Media-Manaus" target="_blank">Exibição em alta resolução no Adobe Behance - Clique nas lupas</p>
 <br>
 <p>Mockup</p>
 <img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/mc-02.jpg" width="600" height="550">
