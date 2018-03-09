@@ -23,8 +23,9 @@ v1.0.1
     <li>7. controle: o usuario domina o processo dentro do sistema</li>
     <li>8. baixa carga de memorização: fácil assimilação e memorização como o uso de ícones</li>
 </o>
+<br>
 
-<p>Meu registro na obra é o "C" comendo a página. Primeira letra de "Calango" uma ideia de negócios que ando tocando o barco</p>
+<p><b>Meu registro na obra é o "C" comendo a página. Primeira letra de "Calango" uma ideia de negócios que ando tocando o barco</b></p>
 
 <br>
 <a href="https://www.behance.net/gallery/62992269/Social-Media-Manaus" target="_blank">Exibição em alta resolução no Adobe Behance - Clique nas lupas</p>
