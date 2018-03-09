@@ -1,6 +1,6 @@
 # WebDesign-SocialMediaManaus
 
-v1.0
+v1.0.1
 
 ### FASES CONCLUÍDAS
 
@@ -24,6 +24,12 @@ v1.0
     <li>8. baixa carga de memorização: fácil assimilação e memorização como o uso de ícones</li>
 </o>
 
+<br>
+<p>Mockup</p>
+<img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/mc-02.jpg" width="600" height="550">
+<br>
+<p>Mockup</p>
+<img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/mochup-ui-10.jpg" width="400" height="550">
 <br>
 <p>Mockup</p>
 <img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/mochup-ui.jpg" width="400" height="550">
