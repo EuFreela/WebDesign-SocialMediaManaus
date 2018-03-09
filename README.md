@@ -24,12 +24,16 @@ v1.0
     <li>8. baixa carga de memorização: fácil assimilação e memorização como o uso de ícones</li>
 </o>
 
-<br><br>
+<br>
+<p>Mockup</p>
 <img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/mochup-ui.jpg" width="400" height="550">
 <br>
+<p>Wireframe</p>
 <img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/wireframe-2.jpg" width="400" height="550">
 <br>
+<p>Logo</p>
 <img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/logo/logo.png" width="300" height="150">
 <br>
+<p>Guia de estilo</p>
 <img src="https://github.com/EuFreela/WebDesign-SocialMediaManaus/blob/master/img/guia-estilos/Guia%20de%20Estilo.png" width="400" height="550">
 <br>
