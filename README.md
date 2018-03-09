@@ -11,7 +11,7 @@ v1.0
     <li>4. Definição de imagens a serem usadas</li>
     <li>5. Definição de Elementos de formulário</li>
 </o>
-
+<br>
 <p>Baseado nas "REGRAS DE OURO" de Ben Shneiderman</p>
 <o>
     <li>1. consistencia: mesma estrutura para os perfis. </li>
